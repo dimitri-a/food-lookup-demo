@@ -1,3 +1,10 @@
+##Cors solution when calling api from client
+
+see : https://www.fullstackreact.com/articles/using-create-react-app-with-a-server/
+working test:https://github.com/dimitri-a/food-lookup-demo
+
+
+
 # `create-react-app` with a server example
 
 [![TravisCI](https://travis-ci.org/fullstackreact/food-lookup-demo.svg?branch=master)](https://travis-ci.org/fullstackreact/food-lookup-demo)
