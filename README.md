@@ -1,4 +1,4 @@
-###Cors solution when calling api from client
+### Cors solution when calling api from client
 
 see : https://www.fullstackreact.com/articles/using-create-react-app-with-a-server/
 working test:https://github.com/dimitri-a/food-lookup-demo
